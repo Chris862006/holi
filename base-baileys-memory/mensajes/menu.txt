@@ -1,0 +1,8 @@
+Selecciones estas opciones que tenemos:
+1 - Ver el catalogo 
+2 - Local
+3 - Consultas y contactos 
+4 - Redes sociales
+0 - salir
+*Recuerde* escribir solo el numero 
+que se encuentre en el lado izquierdo.

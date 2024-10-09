@@ -1,0 +1,130 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51949948570@s.whatsapp.net',
+    fromMe: false,
+    id: 'E50869D736B7406195CDB2DC0FFC8156',
+    participant: undefined
+  },
+  messageTimestamp: 1728458912,
+  pushName: 'Antonio Gonzales',
+  broadcast: false,
+  message: Message {
+    conversation: 'Op',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Op',
+  from: '51949948570'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ab12b046-d8e4-46da-ba9a-f2881fa4e735',
+  keyword: 'key_316a8c12-2c93-4234-a60e-852d82cf1e62',
+  answer: 'Selecciones estas opciones que tenemos:\r\n' +
+    '1 - Ver el catalogo \r\n' +
+    '2 - Local\r\n' +
+    '3 - Consultas y contactos \r\n' +
+    '4 - Redes sociales\r\n' +
+    '0 - salir\r\n' +
+    '*Recuerde* escribir solo el numero \r\n' +
+    'que se encuentre en el lado izquierdo.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '79bf60edfe61b93b4802caddb8b9b385'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51949948570@s.whatsapp.net',
+    fromMe: false,
+    id: '9FF86D73A4A96A2F768D0E5DC1B72EA6',
+    participant: undefined
+  },
+  messageTimestamp: 1728458917,
+  pushName: 'Antonio Gonzales',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '51949948570'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51949948570@s.whatsapp.net',
+    fromMe: false,
+    id: 'A7CC752797E3F32637BBE6C14ACBFEDB',
+    participant: undefined
+  },
+  messageTimestamp: 1728458932,
+  pushName: 'Antonio Gonzales',
+  broadcast: false,
+  message: Message {
+    conversation: 'Op',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Op',
+  from: '51949948570'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ab12b046-d8e4-46da-ba9a-f2881fa4e735',
+  keyword: 'key_316a8c12-2c93-4234-a60e-852d82cf1e62',
+  answer: 'Selecciones estas opciones que tenemos:\r\n' +
+    '1 - Ver el catalogo \r\n' +
+    '2 - Local\r\n' +
+    '3 - Consultas y contactos \r\n' +
+    '4 - Redes sociales\r\n' +
+    '0 - salir\r\n' +
+    '*Recuerde* escribir solo el numero \r\n' +
+    'que se encuentre en el lado izquierdo.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '79bf60edfe61b93b4802caddb8b9b385'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51949948570@s.whatsapp.net',
+    fromMe: false,
+    id: '57EB0F80B2C49F3DA6DC2BA541CBBF2D',
+    participant: undefined
+  },
+  messageTimestamp: 1728458937,
+  pushName: 'Antonio Gonzales',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '51949948570'
+}
